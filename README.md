@@ -1,4 +1,6 @@
 # Speakup
+![](microphone.ico)
+
 Speakup is a text-to-speech program, which can convert the text typed in the entry box into speech. A bot has been made that will narrate anything written in the textbox. It has been made in Python Tkinter. The program has been released, but it is currently under development. It is in beta version. More updates will come up soon.
 
 # Installation

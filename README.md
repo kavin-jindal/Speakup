@@ -27,8 +27,8 @@ Below are the modules used for coding the program:
 
 # Screenshots
 
-will be available once program is released
-
+![](Images/ss1.PNG)
+![](Images/ss2.PNG)
 # Features
 * The program will speak up everything typed in the textbox. 
 

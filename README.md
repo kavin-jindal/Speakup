@@ -6,6 +6,13 @@ Speakup is a text-to-speech program, which can convert the text typed in the ent
 
 # Installation
 The program has not been converted to exe due to errors, the program uses voice module and thus after converting it to exe the code breaked. 
+Below are the steps you have to follow to run the program:
+* Open the Setup folder
+* Open cmd in that folder
+* type python speakup.py
+* the program will run and you can use it
+* Below is the image, you can see how it works
+![](ss3.PNG)
 
 Install the program by downloading the zip file or use the git clone command in your terminal like this
 https://github.com/kavinjindal/Speakup.git
